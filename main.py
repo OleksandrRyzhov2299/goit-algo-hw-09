@@ -1,7 +1,7 @@
 import timeit
 
 coins = [50, 25, 10, 5, 2, 1]
-
+ 
 #Функція жадібного алгоритму для касової системи, яка видає решту покупцеві
 def find_coins_greedy(amount):
     result = {}
